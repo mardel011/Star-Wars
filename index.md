@@ -1,3 +1,6 @@
+# Deployment Demo
+![Image of Darth Vader](https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C23%2C1400%2C785&width=960)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mardel011/Star-Wars/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
